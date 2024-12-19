@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis-1-1
+# Exploratory-Data-Analysis-1
 Sales analysis using Python
 
 
